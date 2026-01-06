@@ -1767,3 +1767,21 @@ Seen: 2025-10-29
 Review: Alvin|4.65
 Review: Holger|
 Review: Carl|
+
+Movie: The Mighty Nein
+Release: 2025-11-19
+Poster: ../images/movie-posters/themightynein.jpeg
+Genre: Adult Animation, Animation, 2D Animation, Drama, Comedy, Action, Superhero, Fantasy
+Director: Critical Role
+Writer: Critical Role
+Actors: Laura Bailey, Taliesin Jaffe, Ashley Johnson, Matthew Mercer, Liam O'Brien, Marisha Ray, Sam Riegel, Travis Willingham, Mark Strong
+Composer: Neal Acree
+Runtime: 30m
+Budget: 
+Gross Worldwide:
+Taglines: 
+Production companies: Amazon MGM Studios, Critical Role Productions, Metapigeon, Titmouse
+Seen: 2025-11-19
+Review: Alvin|
+Review: Holger|
+Review: Carl|
