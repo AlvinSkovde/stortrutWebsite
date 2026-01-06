@@ -1785,3 +1785,21 @@ Seen: 2025-11-19
 Review: Alvin|
 Review: Holger|
 Review: Carl|
+
+Movie: Fallen Angels
+Release: 1995-09-06
+Poster: ../images/movie-posters/fallenangels.jpg
+Genre: Comedy, Crime, Drama, Romance
+Director: Wong Kar-Wai
+Writer: Wong Kar-Wai
+Actors: Leon Lai, Michelle Reis, Takeshi Kaneshiro
+Composer: Frankie Chan, Roel A. García
+Runtime: 1h 39m
+Budget: $7,476,025 (estimated)
+Gross Worldwide: $755,022
+Taglines: 
+Production companies: Amazon MGM Studios, Critical Role Productions, Metapigeon, Titmouse
+Seen: 2025-11-30
+Review: Diaa|
+Review: Holger| 4.2
+Review: Carl|3
